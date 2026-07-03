@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-
+</div>
 ---
 
 ## 💫 About Me 💻
@@ -115,7 +115,6 @@ Computer Science student passionate about building reliable software and intelli
 <div align="center">
 
 <a href="mailto:ecoaguilaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C3CE1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0524"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6C3CE1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0524"/></a>
 <a href="https://github.com/NathaNN73"><img src="https://img.shields.io/badge/GitHub-6C3CE1?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0524"/></a>
 
 </div>
