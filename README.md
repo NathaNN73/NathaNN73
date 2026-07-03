@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B69,100:6C3CE1&height=280&section=header&text=Hi,%20I%20am%20Edison%20Coaguila%20%F0%9F%91%8B&fontSize=46&fontColor=E8DFFF&animation=fadeIn&fontAlignY=38&desc=Computer Science%20|%20Software%20Developer%20%7C%20AI%2FML%20Developer%20&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2D1B69,100:6C3CE1&height=280&section=header&text=Hi,%20I%20am%20Edison%20Coaguila%20%F0%9F%91%8B&fontSize=46&fontColor=E8DFFF&animation=fadeIn&fontAlignY=38&desc=Computer Science%20|%20Software%20Developer%20%7C%20AI%2FML%20Developer%20&descAlignY=58&descSize=18&v=2" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Computer+Science+Student;Competitive+Programmer+%7C+ICPC" alt="Typing SVG" />
